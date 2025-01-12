@@ -1,5 +1,7 @@
 # Bike Share Station Analysis
 
+Knitted HTML document: https://pieberrykinnie.github.io/bike-station-analysis/
+
 ## Overview
 This project analyzes bike-sharing data from San Francisco's bike share system across three time periods:
 - July 2014 (7th-13th)
